@@ -15,6 +15,8 @@ A collection of Python projects I built while learning programming.
 
 ## Skills Used
 - Python
+- Java Script
+- PHP
 - Conditionals (if/else)
 - Functions
 - Lists & Dicionaries
