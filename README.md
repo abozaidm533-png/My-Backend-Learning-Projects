@@ -11,14 +11,13 @@ A collection of Python projects I built while learning programming.
 - login_system.py
 - student_management
 - oop
-- Banking_system 
+- Banking_system
+- task-manager
 
 ## Skills Used
 - Python
 - Java Script
-- PHP
-- Conditionals (if/else)
-- Functions
-- Lists & Dicionaries
-- Loops
-- OOP (Classes) 
+- Node.js
+- SQL
+- 
+
